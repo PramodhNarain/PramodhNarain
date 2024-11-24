@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @PramodhNarain
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... CSE (Data Science)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... Industry Level Solutions 
+- 📫 How to reach me ... Insta: Pramodh_Code_Crafter
 - 😄 Pronouns: ... Hardworking, NEVER GIVE UP 
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... The e's in exe stands for effort
 
 <!---
 PramodhNarain/PramodhNarain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
