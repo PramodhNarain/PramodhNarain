@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... CSE (Data Science)
 - 💞️ I’m looking to collaborate on ... Industry Level Solutions 
-- 📫 How to reach me ... Insta: Pramodh_Code_Crafter
+- 📫 How to reach me ... email-id: pramodhnarain@gmail.com
 - 😄 Pronouns: ... Hardworking, NEVER GIVE UP 
 - ⚡ Fun fact: ... The e's in exe stands for effort
 
