@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PramodhNarain
+- 👋 Hi, I’m Pramodh Narain
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... CSE (Data Science)
 - 💞️ I’m looking to collaborate on ... Industry Level Solutions 
